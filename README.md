@@ -9,7 +9,7 @@ This repository contains solutions to LeetCode problems in various programming l
 
 
 -  **Autor**: [João Gabriel Vianna](https://www.linkedin.com/in/jo%C3%A3o-gabriel-vianna-9439ba288/)<br/>
--  **Site do LeetCode**: [LeetiCode]("https://leetcode.com/")
+-  **Site do LeetCode**: [LeetiCode](https://leetcode.com/)
 
 <br/><br/>
 
@@ -17,5 +17,5 @@ This repository contains solutions to LeetCode problems in various programming l
 
 | # | Title | Date | Solution | Difficulty |
 |---| ----- | ---- | -------- | ---------- |
-| 2667  | Create Hello World Function    |    16/04/2024    |     [javaScript]("https://github.com/JoaoGabrielVianna/leetcode/tree/main/30-Days-of-JavaScript/Create-Hello-World-Function")          |  `Easy 👶`       |
+| 2667  | Create Hello World Function    |    16/04/2024    |     [javaScript](https://github.com/JoaoGabrielVianna/leetcode/tree/main/30-Days-of-JavaScript/Create-Hello-World-Function)          |  `Easy 👶`       |
 
