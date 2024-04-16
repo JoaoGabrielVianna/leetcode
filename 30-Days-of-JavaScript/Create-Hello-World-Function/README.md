@@ -26,7 +26,7 @@
 `0 <= args.length <= 10`
 
 #
-# My answer:
+# My Solution:
 ```js
 /*** This Function allways return "Hello World"
  * @returns `"Hello World"`
