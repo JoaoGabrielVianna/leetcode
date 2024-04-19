@@ -19,4 +19,5 @@ This repository contains solutions to LeetCode problems in various programming l
 |---| ----- | ---- | -------- | ---------- |
 | 2667  | Create Hello World Function    |    16/04/2024    |     [javaScript](https://github.com/JoaoGabrielVianna/leetcode/tree/main/30-Days-of-JavaScript/Create-Hello-World-Function)          |  `Easy 👶`       |
 | 2620  | Counter | 16/04/2024 | [javaScript](https://github.com/JoaoGabrielVianna/leetcode/tree/main/30-Days-of-JavaScript/Counter) | `Easy 👶` |
+| 2704  | To Be Or Not To Be| 18/04/2024 | [javaScript](https://github.com/JoaoGabrielVianna/leetcode/tree/main/30-Days-of-JavaScript/To-Be-Or-Not-To-Be) |`Easy 👶`|
 
