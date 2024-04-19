@@ -15,6 +15,7 @@ This repository contains solutions to LeetCode problems in various programming l
 
 # 30 Days of JavaScript 💻
 
+ ## Closures
 | # | Title | Date | Solution | Difficulty |
 |---| ----- | ---- | -------- | ---------- |
 | 2667  | Create Hello World Function    |    16/04/2024    |     [javaScript](https://github.com/JoaoGabrielVianna/leetcode/tree/main/30-Days-of-JavaScript/Create-Hello-World-Function)          |  `Easy 👶`       |
