@@ -9,7 +9,7 @@ This repository contains solutions to LeetCode problems in various programming l
 
 
 -  **Autor**: [João Gabriel Vianna](https://www.linkedin.com/in/jo%C3%A3o-gabriel-vianna-9439ba288/)<br/>
--  **Site do LeetCode**: [LeetiCode](https://leetcode.com/)
+-  **Site do LeetCode**: [LeetCode](https://leetcode.com/)
 
 <br/><br/>
 
