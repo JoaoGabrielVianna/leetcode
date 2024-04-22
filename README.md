@@ -27,3 +27,4 @@ This repository contains solutions to LeetCode problems in various programming l
 | # | Title | Date | Solution | Difficulty |
 |---| ----- | ---- | -------- | ---------- |
 | 2635  | Apply Transform Over Each Element in Array | 21/04/2024 | [javaScript](https://github.com/JoaoGabrielVianna/leetcode/tree/main/30-Days-of-JavaScript/Apply-Transform-Over-Each-Element-in-Array) |  `Easy 👶` |
+| 2634  | Filter Elements from Array | 22/04/2024 |[javaScript](https://github.com/JoaoGabrielVianna/leetcode/tree/main/30-Days-of-JavaScript/Filter-Elements-from-Array)|  `Easy 👶` |
