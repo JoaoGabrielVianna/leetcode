@@ -22,4 +22,8 @@ This repository contains solutions to LeetCode problems in various programming l
 | 2620  | Counter | 16/04/2024 | [javaScript](https://github.com/JoaoGabrielVianna/leetcode/tree/main/30-Days-of-JavaScript/Counter) | `Easy 👶` |
 | 2704  | To Be Or Not To Be| 18/04/2024 | [javaScript](https://github.com/JoaoGabrielVianna/leetcode/tree/main/30-Days-of-JavaScript/To-Be-Or-Not-To-Be) |`Easy 👶`|
 | 2665  | Counter II | 19/04/2024 | [javaScript](https://github.com/JoaoGabrielVianna/leetcode/tree/main/30-Days-of-JavaScript/Counter-II) | `Easy 👶`|
+
+## Basic Array Transformations
+| # | Title | Date | Solution | Difficulty |
+|---| ----- | ---- | -------- | ---------- |
 | 2635  | Apply Transform Over Each Element in Array | 21/04/2024 | [javaScript](https://github.com/JoaoGabrielVianna/leetcode/tree/main/30-Days-of-JavaScript/Apply-Transform-Over-Each-Element-in-Array) |  `Easy 👶` |
