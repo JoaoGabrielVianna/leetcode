@@ -8,7 +8,7 @@ Este repositório contém soluções para problemas do LeetCode em várias lingu
 This repository contains solutions to LeetCode problems in various programming languages. The solutions are implemented and explained in detail.
 
 ## 🧑‍💻 Estatísticas Gerais
-- **Total de problemas resolvidos:** 1
+- **Total de problemas resolvidos:** 3
 - **Linguagens usadas:** Go
 - **Categorias:** Daily Challenges
 
@@ -25,6 +25,7 @@ This repository contains solutions to LeetCode problems in various programming l
 |---| ----- | ---- | -------- | ---------- |
 |1422| [Maximum Score After Splitting a String](/solutions/daily-challenge/1422-maximum-score-after-splitting-a-string/README.md) | 01/01/2025 | Go | `Easy 👶`|
 |2559| [Count Vowel Strings in Ranges](/solutions/daily-challenge/2559-count-vowel-strings-in-ranges/README.md) | 02/01/2025 | Go | `Medium 🌟`|
+|2270| [Number of Ways to Split Array](/solutions/daily-challenge/2270-number-of-ways-to-slipt-array/README.md) | 03/01/2025 | Go | `Medium 🌟`|
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
