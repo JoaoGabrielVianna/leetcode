@@ -24,6 +24,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | # | Title | Date | Solution | Difficulty |
 |---| ----- | ---- | -------- | ---------- |
 |1422| [Maximum Score After Splitting a String](/solutions/daily-challenge/1422-maximum-score-after-splitting-a-string/README.md) | 01/01/2025 | Go | `Easy 👶`|
+|2559| [Count Vowel Strings in Ranges](/solutions/daily-challenge/2559-count-vowel-strings-in-ranges/README.md) | 02/01/2025 | Go | `Medium 🌟`|
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
