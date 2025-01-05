@@ -27,6 +27,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 2559 | [Count Vowel Strings in Ranges](/solutions/daily-challenge/2559-count-vowel-strings-in-ranges/README.md)                       | 02/01/2025 | Go       | `Medium 🌟` |
 | 2270 | [Number of Ways to Split Array](/solutions/daily-challenge/2270-number-of-ways-to-slipt-array/README.md)                       | 03/01/2025 | Go       | `Medium 🌟` |
 | 1930 | [Unique Length-3 Palindromic Subsequences](/solutions/daily-challenge/1930-unique-lenght-3-palindromic-subsequences/README.md) | 04/01/2025 | Go       | `Medium 🌟` |
+| 2381 | [Shifting Letters II](/solutions/daily-challenge/2381-shifting-Letters-II/README.md) | 05/01/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
