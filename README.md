@@ -29,6 +29,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 1930 | [Unique Length-3 Palindromic Subsequences](/solutions/daily-challenge/1930-unique-lenght-3-palindromic-subsequences/README.md)                                     | 04/01/2025 | Go       | `Medium 🌟` |
 | 2381 | [Shifting Letters II](/solutions/daily-challenge/2381-shifting-Letters-II/README.md)                                                                               | 05/01/2025 | Go       | `Medium 🌟` |
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](/solutions/daily-challenge/1769-minimun-number-of-operations-to-move-all-balls-to-each-box/README.md) | 06/01/2025 | Go       | `Medium 🌟` |
+| 1408 | [String Matching in an Array](/solutions/daily-challenge/1408-string-matching-in-an-array/README.md)                                                               | 07/01/2025 | Go       | `Easy 👶`   |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
