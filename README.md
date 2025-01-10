@@ -31,6 +31,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 1769 | [Minimum Number of Operations to Move All Balls to Each Box](/solutions/daily-challenge/1769-minimun-number-of-operations-to-move-all-balls-to-each-box/README.md) | 06/01/2025 | Go       | `Medium 🌟` |
 | 1408 | [String Matching in an Array](/solutions/daily-challenge/1408-string-matching-in-an-array/README.md)                                                               | 07/01/2025 | Go       | `Easy 👶`   |
 | 3042 | [Count Prefix and Suffix Pairs I](/solutions/daily-challenge/3042-count-prefix-and-suffix-pairs-I/README.md)                                                       | 08/01/2025 | Go       | `Easy 👶`   |
+| 2185 | [Counting Words With a Given Prefix](/solutions/daily-challenge/2185-counting-words-with-a-given-prefix/README.md)                                                       | 09/01/2025 | Go       | `Easy 👶`   |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
