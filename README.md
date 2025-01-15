@@ -37,6 +37,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 3223 | [Minimum Length of String After Operations](/solutions/daily-challenge/3223-minimum-length-of-string-after-operations/README.md)                                   | 12/01/2025 | Go       | `Medium 🌟` |
 | 2116 | [Check if a Parentheses String Can Be Valid](/solutions/daily-challenge/2116-check-if-a-parentheses-string-can-be-valid/README.md)                                 | 13/01/2025 | Go       | `Medium 🌟` |
 | 2657 | [Find the Prefix Common Array of Two Arrays](/solutions/daily-challenge/2657-find-the-prefix-common-array-of-two-arrays/README.md)                                 | 14/01/2025 | Go       | `Medium 🌟` |
+| 2429 | [Minimize XOR](/solutions/daily-challenge/2429-minimize-xor/README.md)                                                                                             | 15/01/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
