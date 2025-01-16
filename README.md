@@ -38,6 +38,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 2116 | [Check if a Parentheses String Can Be Valid](/solutions/daily-challenge/2116-check-if-a-parentheses-string-can-be-valid/README.md)                                 | 13/01/2025 | Go       | `Medium 🌟` |
 | 2657 | [Find the Prefix Common Array of Two Arrays](/solutions/daily-challenge/2657-find-the-prefix-common-array-of-two-arrays/README.md)                                 | 14/01/2025 | Go       | `Medium 🌟` |
 | 2429 | [Minimize XOR](/solutions/daily-challenge/2429-minimize-xor/README.md)                                                                                             | 15/01/2025 | Go       | `Medium 🌟` |
+| 2425 | [Bitwise XOR of All Pairings](/solutions/daily-challenge/2425-bitwise-xor-of-all-pairings/README.md)                                                               | 16/01/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
