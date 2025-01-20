@@ -42,6 +42,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 2683 | [Neighboring Bitwise XOR](/solutions/daily-challenge/2683-neighboring-bitwise-xor/README.md)                                                                       | 17/01/2025 | Go       | `Medium 🌟` |
 | 1368 | [Minimum Cost to Make at Least One Valid Path in a Grid](/solutions/daily-challenge/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/README.md)         | 18/01/2025 | Go       | `Hard 🔥`   |
 | 407  | [Trapping Rain Water II](/solutions/daily-challenge/407-trapping-rain-water-II/README.md)                                                                          | 19/01/2025 | Go       | `Hard 🔥`   |
+| 2661 | [First Completely Painted Row or Column](/solutions/daily-challenge/2661-first-completely-painted-row-or-column/README.md)                                         | 20/01/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
