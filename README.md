@@ -44,6 +44,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 407  | [Trapping Rain Water II](/solutions/daily-challenge/407-trapping-rain-water-II/README.md)                                                                          | 19/01/2025 | Go       | `Hard 🔥`   |
 | 2661 | [First Completely Painted Row or Column](/solutions/daily-challenge/2661-first-completely-painted-row-or-column/README.md)                                         | 20/01/2025 | Go       | `Medium 🌟` |
 | 2017 | [Grid Game](/solutions/daily-challenge/2017-grid-game/README.md)                                                                                                   | 21/01/2025 | Go       | `Medium 🌟` |
+| 1765 | [Map of Highest Peak](/solutions/daily-challenge/1765-map-of-highest-peak/README.md)                                                                               | 22/01/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
