@@ -46,6 +46,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 2017 | [Grid Game](/solutions/daily-challenge/2017-grid-game/README.md)                                                                                                   | 21/01/2025 | Go       | `Medium 🌟` |
 | 1765 | [Map of Highest Peak](/solutions/daily-challenge/1765-map-of-highest-peak/README.md)                                                                               | 22/01/2025 | Go       | `Medium 🌟` |
 | 1267 | [Count Servers that Communicate](/solutions/daily-challenge/1267-count-servers-that-communicate/README.md)                                                         | 23/01/2025 | Go       | `Medium 🌟` |
+| 802  | [Find Eventual Safe States](/solutions/daily-challenge/802-find-eventual-safe-states/README.md)                                                                    | 24/01/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
