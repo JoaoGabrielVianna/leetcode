@@ -48,6 +48,8 @@ This repository contains solutions to LeetCode problems in various programming l
 | 1267 | [Count Servers that Communicate](/solutions/daily-challenge/1267-count-servers-that-communicate/README.md)                                                         | 23/01/2025 | Go       | `Medium 🌟` |
 | 802  | [Find Eventual Safe States](/solutions/daily-challenge/802-find-eventual-safe-states/README.md)                                                                    | 24/01/2025 | Go       | `Medium 🌟` |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](/solutions/daily-challenge/2948-make-lexicographically-smallest-srray-by-swapping-elements/README.md) | 25/01/2025 | Go       | `Medium 🌟` |
+| ---- | -----                                                                                                                                                              | 26/01/2025 | Go       | `-----`    |
+| 1462 | [Course Schedule IV](/solutions/daily-challenge/1462-course-schedule-IV/README.md)                                                                                 | 27/01/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
