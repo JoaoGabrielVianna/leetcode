@@ -51,6 +51,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | ---- | -----                                                                                                                                                              | 26/01/2025 | Go       | `-----`    |
 | 1462 | [Course Schedule IV](/solutions/daily-challenge/1462-course-schedule-IV/README.md)                                                                                 | 27/01/2025 | Go       | `Medium 🌟` |
 | 2658 | [Maximum Number of Fish in a Grid](/solutions/daily-challenge/2658-maximum-number-of-fish-in-a-grid/README.md)                                                     | 28/01/2025 | Go       | `Medium 🌟` |
+| 684  | [Redundant Connection](/solutions/daily-challenge/684-redundant-connection/README.md)                                                                              | 29/01/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
