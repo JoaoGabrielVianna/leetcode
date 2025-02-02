@@ -54,6 +54,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 684  | [Redundant Connection](/solutions/daily-challenge/684-redundant-connection/README.md)                                                                              | 29/01/2025 | Go       | `Medium 🌟` |
 | 2493 | [Divide Nodes Into the Maximum Number of Groups](/solutions/daily-challenge/2493-divide-nodes-into-the-maximum-number-of-groups/README.md)                         | 30/01/2025 | Go       | `Hard 🔥`   |
 | 827  | [Making A Large Island](/solutions/daily-challenge/827-making-a-large-island/README.md)                                                                            | 31/01/2025 | Go       | `Hard 🔥`   |
+| 3151 | [Special Array I](/solutions/daily-challenge/3151-special-array-I/README.md)                                                                                       | 01/02/2025 | Go       | `Easy 👶`   |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
