@@ -55,6 +55,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 2493 | [Divide Nodes Into the Maximum Number of Groups](/solutions/daily-challenge/2493-divide-nodes-into-the-maximum-number-of-groups/README.md)                         | 30/01/2025 | Go       | `Hard 🔥`   |
 | 827  | [Making A Large Island](/solutions/daily-challenge/827-making-a-large-island/README.md)                                                                            | 31/01/2025 | Go       | `Hard 🔥`   |
 | 3151 | [Special Array I](/solutions/daily-challenge/3151-special-array-I/README.md)                                                                                       | 01/02/2025 | Go       | `Easy 👶`   |
+| 1752 | [Check if Array Is Sorted and Rotated](/solutions/daily-challenge/1752-check-if-array-is-sorted-and-rotated/README.md)                                             | 02/02/2025 | Go       | `Easy 👶`   |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
