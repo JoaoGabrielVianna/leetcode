@@ -57,6 +57,8 @@ This repository contains solutions to LeetCode problems in various programming l
 | 3151 | [Special Array I](/solutions/daily-challenge/3151-special-array-I/README.md)                                                                                         | 01/02/2025 | Go       | `Easy 👶`   |
 | 1752 | [Check if Array Is Sorted and Rotated](/solutions/daily-challenge/1752-check-if-array-is-sorted-and-rotated/README.md)                                               | 02/02/2025 | Go       | `Easy 👶`   |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](/solutions/daily-challenge/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | 03/02/2025 | Go       | `Easy 👶`   |
+| ---- | -----                                                                                                                                                                | 04/02/2025 | Go       | `-----`    |
+| 1790 | [Check if One String Swap Can Make Strings Equal](/solutions/daily-challenge/1790-check-if-one-string-swap-can-make-strings-equal/README.md)                         | 05/02/2025 | Go       | `Easy 👶`   |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
