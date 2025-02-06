@@ -59,6 +59,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](/solutions/daily-challenge/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md) | 03/02/2025 | Go       | `Easy 👶`   |
 | ---- | -----                                                                                                                                                                | 04/02/2025 | Go       | `-----`    |
 | 1790 | [Check if One String Swap Can Make Strings Equal](/solutions/daily-challenge/1790-check-if-one-string-swap-can-make-strings-equal/README.md)                         | 05/02/2025 | Go       | `Easy 👶`   |
+| 1726 | [Tuple with Same Product](/solutions/daily-challenge/1726-Tuple-with-same-product/README.md)                                                                         | 06/02/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
