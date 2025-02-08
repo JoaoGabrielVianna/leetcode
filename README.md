@@ -61,6 +61,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 1790 | [Check if One String Swap Can Make Strings Equal](/solutions/daily-challenge/1790-check-if-one-string-swap-can-make-strings-equal/README.md)                         | 05/02/2025 | Go       | `Easy 👶`   |
 | 1726 | [Tuple with Same Product](/solutions/daily-challenge/1726-Tuple-with-same-product/README.md)                                                                         | 06/02/2025 | Go       | `Medium 🌟` |
 | 3160 | [Find the Number of Distinct Colors Among the Balls](/solutions/daily-challenge/3160-find-the-number-of-distinct-colors-among-the-balls/README.md)                   | 07/02/2025 | Go       | `Medium 🌟` |
+| 2349 | [Design a Number Container System](/solutions/daily-challenge/2349-design-a-number-container-system/README.md)                                                       | 08/02/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
