@@ -63,6 +63,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 3160 | [Find the Number of Distinct Colors Among the Balls](/solutions/daily-challenge/3160-find-the-number-of-distinct-colors-among-the-balls/README.md)                   | 07/02/2025 | Go       | `Medium 🌟` |
 | 2349 | [Design a Number Container System](/solutions/daily-challenge/2349-design-a-number-container-system/README.md)                                                       | 08/02/2025 | Go       | `Medium 🌟` |
 | 2364 | [Count Number of Bad Pairs](/solutions/daily-challenge/2364-count-number-of-bad-pairs/README.md)                                                                     | 09/02/2025 | Go       | `Medium 🌟` |
+| 3174 | [Clear Digits](/solutions/daily-challenge/3174-clear-digits/README.md)                                                                                               | 10/02/2025 | Go       | `Easy 👶`   |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
