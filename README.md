@@ -64,6 +64,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 2349 | [Design a Number Container System](/solutions/daily-challenge/2349-design-a-number-container-system/README.md)                                                       | 08/02/2025 | Go       | `Medium 🌟` |
 | 2364 | [Count Number of Bad Pairs](/solutions/daily-challenge/2364-count-number-of-bad-pairs/README.md)                                                                     | 09/02/2025 | Go       | `Medium 🌟` |
 | 3174 | [Clear Digits](/solutions/daily-challenge/3174-clear-digits/README.md)                                                                                               | 10/02/2025 | Go       | `Easy 👶`   |
+| 1910 | [Remove All Occurrences of a Substring](/solutions/daily-challenge/1910-remove-all-occurrences-of-a-substring/README.md)                                             | 11/02/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
