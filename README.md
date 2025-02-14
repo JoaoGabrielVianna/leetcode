@@ -66,6 +66,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 3174 | [Clear Digits](/solutions/daily-challenge/3174-clear-digits/README.md)                                                                                               | 10/02/2025 | Go       | `Easy 👶`   |
 | 1910 | [Remove All Occurrences of a Substring](/solutions/daily-challenge/1910-remove-all-occurrences-of-a-substring/README.md)                                             | 11/02/2025 | Go       | `Medium 🌟` |
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](/solutions/daily-challenge/2342-max-sum-of-a-pair-with-equal-sum-of-digits/README.md)                                   | 12/02/2025 | Go       | `Medium 🌟` |
+| 3066 | [Minimum Operations to Exceed Threshold Value II](/solutions/daily-challenge/3066-minimum-operations-to-exceed-threshold-value-II/README.md)                         | 13/02/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
