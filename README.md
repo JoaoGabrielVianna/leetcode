@@ -68,6 +68,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](/solutions/daily-challenge/2342-max-sum-of-a-pair-with-equal-sum-of-digits/README.md)                                   | 12/02/2025 | Go       | `Medium 🌟` |
 | 3066 | [Minimum Operations to Exceed Threshold Value II](/solutions/daily-challenge/3066-minimum-operations-to-exceed-threshold-value-II/README.md)                         | 13/02/2025 | Go       | `Medium 🌟` |
 | 1352 | [Product of the Last K Numbers](/solutions/daily-challenge/1352-product-of-the-last-k-numbers/README.md)                                                             | 14/02/2025 | Go       | `Medium 🌟` |
+| 2698 | [Find the Punishment Number of an Integer](/solutions/daily-challenge/2698-find-the-punishment-number-of-an-integer/README.md)                                       | 15/02/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
