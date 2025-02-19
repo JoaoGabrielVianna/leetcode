@@ -71,6 +71,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 2698 | [Find the Punishment Number of an Integer](/solutions/daily-challenge/2698-find-the-punishment-number-of-an-integer/README.md)                                       | 15/02/2025 | Go       | `Medium 🌟` |
 | 1718 | [Construct the Lexicographically Largest Valid Sequence](/solutions/daily-challenge/1718-construct-the-lexicographically-largest-valid-sequence/README.md)           | 16/02/2025 | Go       | `Medium 🌟` |
 | 1079 | [Letter Tile Possibilities](/solutions/daily-challenge/1079-letter-tile-possibilities/README.md)                                                                     | 17/02/2025 | Go       | `Medium 🌟` |
+| 2375 | [Construct Smallest Number From DI String](/solutions/daily-challenge/2375-construct-smallest-number-from-di-string/README.md)                                       | 18/02/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
