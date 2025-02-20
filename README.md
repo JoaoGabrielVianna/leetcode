@@ -73,6 +73,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 1079 | [Letter Tile Possibilities](/solutions/daily-challenge/1079-letter-tile-possibilities/README.md)                                                                               | 17/02/2025 | Go       | `Medium 🌟` |
 | 2375 | [Construct Smallest Number From DI String](/solutions/daily-challenge/2375-construct-smallest-number-from-di-string/README.md)                                                 | 18/02/2025 | Go       | `Medium 🌟` |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](/solutions/daily-challenge/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/README.md) | 19/02/2025 | Go       | `Medium 🌟` |
+| 1980 | [Find Unique Binary String](/solutions/daily-challenge/1980-find-unique-binary-string/README.md)                                                                               | 20/02/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
