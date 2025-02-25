@@ -76,6 +76,8 @@ This repository contains solutions to LeetCode problems in various programming l
 | 1980 | [Find Unique Binary String](/solutions/daily-challenge/1980-find-unique-binary-string/README.md)                                                                               | 20/02/2025 | Go       | `Medium 🌟` |
 | ---- | -----                                                                                                                                                                          | 24/02/2025 | Go       | `-----`    |
 | 1028 | [Recover a Tree From Preorder Traversal](/solutions/daily-challenge/1028-recover-a-tree-from-preorder-traversal/README.md)                                                     | 22/02/2025 | Go       | `Hard 🔥`   |
+| ---- | -----                                                                                                                                                                          | 23/02/2025 | Go       | `-----`    |
+| 2467 | [Most Profitable Path in a Tree](/solutions/daily-challenge/2467-most-profitable-path-in-a-tree/README.md)                                                                     | 24/02/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
