@@ -78,6 +78,9 @@ This repository contains solutions to LeetCode problems in various programming l
 | 1028 | [Recover a Tree From Preorder Traversal](/solutions/daily-challenge/1028-recover-a-tree-from-preorder-traversal/README.md)                                                     | 22/02/2025 | Go       | `Hard 🔥`   |
 | ---- | -----                                                                                                                                                                          | 23/02/2025 | Go       | `-----`    |
 | 2467 | [Most Profitable Path in a Tree](/solutions/daily-challenge/2467-most-profitable-path-in-a-tree/README.md)                                                                     | 24/02/2025 | Go       | `Medium 🌟` |
+| ---- | -----                                                                                                                                                                          | 25/02/2025 | Go       | `-----`    |
+| ---- | -----                                                                                                                                                                          | 26/02/2025 | Go       | `-----`    |
+| 873  | [Length of Longest Fibonacci Subsequence](/solutions/daily-challenge/873-length-of-longest-fibonacci-subsequence/README.md)                                                    | 27/02/2025 | Go       | `Medium 🌟` |
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
