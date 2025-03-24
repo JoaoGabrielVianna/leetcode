@@ -81,6 +81,9 @@ This repository contains solutions to LeetCode problems in various programming l
 | ---- | -----                                                                                                                                                                          | 25/02/2025 | Go       | `-----`    |
 | ---- | -----                                                                                                                                                                          | 26/02/2025 | Go       | `-----`    |
 | 873  | [Length of Longest Fibonacci Subsequence](/solutions/daily-challenge/873-length-of-longest-fibonacci-subsequence/README.md)                                                    | 27/02/2025 | Go       | `Medium 🌟` |
+| 3169  | [ Count Days Without Meetings](/solutions/daily-challenge/3169-count-days-without-meetings/README.md)                                                    | 23/03/2025 | Go       | `Medium 🌟` |
+
+
 
 ## 📝 Licença
 Este repositório está licenciado sob a licença MIT
