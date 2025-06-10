@@ -21,8 +21,8 @@ This repository contains solutions to LeetCode problems in various programming l
 
 ## 🏆 Problemas Resolvidos por Tipo
 ### Daily Challenges
-| #    | Title                                                                                                                                                                          | Date       | Solution | Difficulty |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | -------- | ---------- |
+| #    | Title                                                                                                                                                                          | Date       | Solution | Difficulty  |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | -------- | ----------- |
 | 1422 | [Maximum Score After Splitting a String](/solutions/daily-challenge/1422-maximum-score-after-splitting-a-string/README.md)                                                     | 01/01/2025 | Go       | `Easy 👶`   |
 | 2559 | [Count Vowel Strings in Ranges](/solutions/daily-challenge/2559-count-vowel-strings-in-ranges/README.md)                                                                       | 02/01/2025 | Go       | `Medium 🌟` |
 | 2270 | [Number of Ways to Split Array](/solutions/daily-challenge/2270-number-of-ways-to-slipt-array/README.md)                                                                       | 03/01/2025 | Go       | `Medium 🌟` |
@@ -48,7 +48,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 1267 | [Count Servers that Communicate](/solutions/daily-challenge/1267-count-servers-that-communicate/README.md)                                                                     | 23/01/2025 | Go       | `Medium 🌟` |
 | 802  | [Find Eventual Safe States](/solutions/daily-challenge/802-find-eventual-safe-states/README.md)                                                                                | 24/01/2025 | Go       | `Medium 🌟` |
 | 2948 | [Make Lexicographically Smallest Array by Swapping Elements](/solutions/daily-challenge/2948-make-lexicographically-smallest-srray-by-swapping-elements/README.md)             | 25/01/2025 | Go       | `Medium 🌟` |
-| ---- | -----                                                                                                                                                                          | 26/01/2025 | Go       | `-----`    |
+| ---- | -----                                                                                                                                                                          | 26/01/2025 | Go       | `-----`     |
 | 1462 | [Course Schedule IV](/solutions/daily-challenge/1462-course-schedule-IV/README.md)                                                                                             | 27/01/2025 | Go       | `Medium 🌟` |
 | 2658 | [Maximum Number of Fish in a Grid](/solutions/daily-challenge/2658-maximum-number-of-fish-in-a-grid/README.md)                                                                 | 28/01/2025 | Go       | `Medium 🌟` |
 | 684  | [Redundant Connection](/solutions/daily-challenge/684-redundant-connection/README.md)                                                                                          | 29/01/2025 | Go       | `Medium 🌟` |
@@ -57,7 +57,7 @@ This repository contains solutions to LeetCode problems in various programming l
 | 3151 | [Special Array I](/solutions/daily-challenge/3151-special-array-I/README.md)                                                                                                   | 01/02/2025 | Go       | `Easy 👶`   |
 | 1752 | [Check if Array Is Sorted and Rotated](/solutions/daily-challenge/1752-check-if-array-is-sorted-and-rotated/README.md)                                                         | 02/02/2025 | Go       | `Easy 👶`   |
 | 3105 | [Longest Strictly Increasing or Strictly Decreasing Subarray](/solutions/daily-challenge/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/README.md)           | 03/02/2025 | Go       | `Easy 👶`   |
-| ---- | -----                                                                                                                                                                          | 04/02/2025 | Go       | `-----`    |
+| ---- | -----                                                                                                                                                                          | 04/02/2025 | Go       | `-----`     |
 | 1790 | [Check if One String Swap Can Make Strings Equal](/solutions/daily-challenge/1790-check-if-one-string-swap-can-make-strings-equal/README.md)                                   | 05/02/2025 | Go       | `Easy 👶`   |
 | 1726 | [Tuple with Same Product](/solutions/daily-challenge/1726-Tuple-with-same-product/README.md)                                                                                   | 06/02/2025 | Go       | `Medium 🌟` |
 | 3160 | [Find the Number of Distinct Colors Among the Balls](/solutions/daily-challenge/3160-find-the-number-of-distinct-colors-among-the-balls/README.md)                             | 07/02/2025 | Go       | `Medium 🌟` |
@@ -74,16 +74,16 @@ This repository contains solutions to LeetCode problems in various programming l
 | 2375 | [Construct Smallest Number From DI String](/solutions/daily-challenge/2375-construct-smallest-number-from-di-string/README.md)                                                 | 18/02/2025 | Go       | `Medium 🌟` |
 | 1415 | [The k-th Lexicographical String of All Happy Strings of Length n](/solutions/daily-challenge/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/README.md) | 19/02/2025 | Go       | `Medium 🌟` |
 | 1980 | [Find Unique Binary String](/solutions/daily-challenge/1980-find-unique-binary-string/README.md)                                                                               | 20/02/2025 | Go       | `Medium 🌟` |
-| ---- | -----                                                                                                                                                                          | 24/02/2025 | Go       | `-----`    |
+| ---- | -----                                                                                                                                                                          | 24/02/2025 | Go       | `-----`     |
 | 1028 | [Recover a Tree From Preorder Traversal](/solutions/daily-challenge/1028-recover-a-tree-from-preorder-traversal/README.md)                                                     | 22/02/2025 | Go       | `Hard 🔥`   |
-| ---- | -----                                                                                                                                                                          | 23/02/2025 | Go       | `-----`    |
+| ---- | -----                                                                                                                                                                          | 23/02/2025 | Go       | `-----`     |
 | 2467 | [Most Profitable Path in a Tree](/solutions/daily-challenge/2467-most-profitable-path-in-a-tree/README.md)                                                                     | 24/02/2025 | Go       | `Medium 🌟` |
-| ---- | -----                                                                                                                                                                          | 25/02/2025 | Go       | `-----`    |
-| ---- | -----                                                                                                                                                                          | 26/02/2025 | Go       | `-----`    |
+| ---- | -----                                                                                                                                                                          | 25/02/2025 | Go       | `-----`     |
+| ---- | -----                                                                                                                                                                          | 26/02/2025 | Go       | `-----`     |
 | 873  | [Length of Longest Fibonacci Subsequence](/solutions/daily-challenge/873-length-of-longest-fibonacci-subsequence/README.md)                                                    | 27/02/2025 | Go       | `Medium 🌟` |
-| 3169  | [ Count Days Without Meetings](/solutions/daily-challenge/3169-count-days-without-meetings/README.md)                                                    | 23/03/2025 | Go       | `Medium 🌟` |
-| 2551  | [ Count Days Without Meetings](/solutions/daily-challenge/2551-put-marbles-in-bags/README.md)                                                    | 30/03/2025 | Go       | `Hard 🔥` |
-
+| 3169 | [ Count Days Without Meetings](/solutions/daily-challenge/3169-count-days-without-meetings/README.md)                                                                          | 23/03/2025 | Go       | `Medium 🌟` |
+| 2551 | [ Count Days Without Meetings](/solutions/daily-challenge/2551-put-marbles-in-bags/README.md)                                                                                  | 30/03/2025 | Go       | `Hard 🔥`   |
+| 3442| [Maximum-difference-between-even-and-odd-frequency-I/](/solutions/daily-challenge/3442-maximum-difference-between-even-and-odd-frequency-I/README.md)                           | 10/05/2025 | Go       | `Easy 👶`   |
 
 
 ## 📝 Licença
